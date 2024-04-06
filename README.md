@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, CPLEX, Gurobi 
 
 ## Education						       		
-- M.S., Industrial Engineering	| Arizona State University 		        		
-- B.S., Mechanical Engineering | Indus University 
+- M.S. Industrial Engineering	| Arizona State University 		        		
+- B.S. Mechanical Engineering | Indus University 
 
 ## Work Experience
 **Graduate Services Assistant @ Arizona State University (_August 2023 - Present_)** 
