@@ -15,13 +15,12 @@ Industrial Engineer specializing in manufacturing operations and mechanical engi
 
 ## Work Experience
 ### Operations Research Analyst | Freshkube
-
 Prototyping | Mechanical Design | Suppply Chain | Procurement Plannning | Material Sourcing | NPI | DMF & DMA | Standard Operating Procedures (SOPs) | Root Cause Analysis
 
 ### Graduate Services Assistant | Arizona State University
 Student Assistent | Mathematical Models | Convex Optimization | MySQL | VBA (Macro) | Producttion Systems | Lean Manuacturing | JIT/Kanban
 
-### CAD Engineer | Win Industries
+### CAD Engineer | Cube CAD Center
 Software Training | CAD Software (AutoCAD, SolidWorks, Fusion 360, NX, Creo, Solid Edge) | Reverse Engineering | Assembley | Manufacturing | Customer Support
 
 ### Supply Chain Manager | Win Industries
