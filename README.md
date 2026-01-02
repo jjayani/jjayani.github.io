@@ -15,7 +15,7 @@ Industrial Engineer specializing in manufacturing operations and mechanical engi
 
 ## Work Experience
 ### Operations Research Analyst | Freshkube
-- Led the design and manufacturing of a prototype refrigeration system meeting Air Force standards for pharmaceutical product storage.
+Led the design and manufacturing of a prototype refrigeration system meeting Air Force standards for pharmaceutical product storage.
 
 Prototyping | Mechanical Design | Suppply Chain | Procurement Plannning | Material Sourcing | NPI | DMF & DMA | Standard Operating Procedures (SOPs) | Root Cause Analysis
 
