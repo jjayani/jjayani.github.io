@@ -1,5 +1,5 @@
 # Operations Research Analyst
--Industrial Engineer specializing in manufacturing operations and mechanical engineering, with experience optimizing production workflows, improving assembly processes, and supporting NPI initiatives. Skilled in SolidWorks, GD&T, DFM/DFA, supply chain, procurement, production planning, and hands-on shop-floor support.
+- Industrial Engineer specializing in manufacturing operations and mechanical engineering, with experience optimizing production workflows, improving assembly processes, and supporting NPI initiatives. Skilled in SolidWorks, GD&T, DFM/DFA, supply chain, procurement, production planning, and hands-on shop-floor support.
 
 #### Technical Skills: Prototype, NPI, Manufacturing, Design, Supply Chain, Ma
 
@@ -9,7 +9,7 @@
 
 
 ## Projects
-### Refrigeration System Design and Manufacturing Coordination
+### Refrigeration System Design and Manufacturing Coordination | Ongoing
 - Designed and drafted the refrigeration system structure for pharmaceutical applications using SolidWorks, ensuring compliance with industry standards and optimized performance.
 - Supervised design team and mentored 3 trainee engineers in production planning and process monitoring, achieving continuous improvements and maintaining strict quality standards for Air Force standards.
 - Led mechanical design and assembly of the first prototype, including system upgrades and performance testing of advanced refrigeration systems, ensuring Air Force quality compliance and operational reliability under demanding conditions.
