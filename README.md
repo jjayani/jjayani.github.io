@@ -15,7 +15,6 @@ Industrial Engineer specializing in manufacturing operations and mechanical engi
 
 ## Work Experience
 ### Operations Research Analyst | Freshkube
-Led the design and manufacturing of a prototype refrigeration system meeting Air Force standards for pharmaceutical product storage.
 
 Prototyping | Mechanical Design | Suppply Chain | Procurement Plannning | Material Sourcing | NPI | DMF & DMA | Standard Operating Procedures (SOPs) | Root Cause Analysis
 
@@ -25,16 +24,12 @@ Student Assistent | Mathematical Models | Convex Optimization | MySQL | VBA (Mac
 ### CAD Engineer | Win Industries
 Software Training | CAD Software (AutoCAD, SolidWorks, Fusion 360, NX, Creo, Solid Edge) | Reverse Engineering | Assembley | Manufacturing | Customer Support
 
-###Supply Chain Manager | Win Industries
-- Elevated supply chain efficiency by 12% through strategic management of electrical components and spare parts inventory, harnessing advanced BI tools (PowerBI & Excel) for data analysis and reporting, facilitating informed decision-making.
-- Optimized inventory levels for induction furnace, coordinated replenishment processes, and maintained accurate recordkeeping, resulting in a 4% cost reduction and improved inventory turnover.
-- Performed data analysis to identify specific areas within the supply chain operations requiring optimization, leading targeted initiatives that resulted in a remarkable 19% increase in overall efficiency and the streamlined enhancement of logistical processes.
-- Utilized ERP systems to rigorously evaluate supply chain KPIs, inventory management, and order forecasting, resulting in informed decisions and a notable 9% improvement in relevant KPIs.
-- Developed and applied business protocols, including accounting systems, logistics arrangements, and production schedules, to boost operational efficiency by 14% and attain goals.
+### Supply Chain Manager | Win Industries
+Supply Chain | Matierla Procurement | Customer Support | Inventory Contorol (Mechanical & Electrical) | BI Tools | KPIs | Forecasting | Logistics Arrebnetb | Production Schedule | ERP System
 
 ### Trainee Engineer | Win Industries
-- Enhanced stock management across multiple factories and sites, achieving a 10% improvement in material and supply flow through streamlined logistics strategies.
-- Led preventive maintenance planning, data analysis, and FMEA initiatives, driving improvement in equipment reliability and ensuring precision standards.
+Maintenance | Workshop Operaitons | Material Quility Testing | Equiment Reliability | Product Testing | Tools Training
+
 
 
 
