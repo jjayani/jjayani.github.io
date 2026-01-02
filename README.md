@@ -1,7 +1,7 @@
 # Operations Research Analyst
-- Industrial Engineer specializing in manufacturing operations and mechanical engineering, with experience optimizing production workflows, improving assembly processes, and supporting NPI initiatives. Skilled in SolidWorks, GD&T, DFM/DFA, supply chain, procurement, production planning, and hands-on shop-floor support.
+Industrial Engineer specializing in manufacturing operations and mechanical engineering, with experience optimizing production workflows, improving assembly processes, and supporting NPI initiatives. Skilled in SolidWorks, GD&T, DFM/DFA, supply chain, procurement, production planning, and hands-on shop-floor support.
 
-#### Technical Skills: Prototype, NPI, Manufacturing, Design, Supply Chain, Ma
+#### Technical Skills: Prototype, NPI, Manufacturing, Design, Supply Chain, Machine Learning 
 
 ## Education						       		
 - M.S. Industrial Engineering	| Arizona State University
