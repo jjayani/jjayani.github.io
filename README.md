@@ -53,19 +53,45 @@ Maintenance | Workshop Operaitons | Material Quility Testing | Equiment Reliabil
 
 *Different mechanical structural designs were evaluated to identify the most sustainable load condition that meets customer requirements and withstands heavy loads from perishable and pharmaceutical items. This image illustrates the von Mises stress distribution and the corresponding factor of safety.*
 
+#### Theraml Anaysist of system 
+<div style="display:grid; grid-template-columns: repeat(2, 1fr); gap:10px;">
+  <img src="assets/thermal_1.jpeg">
+  <img src="assets/thermal_2.jpeg">
+  <img src="assets/thermal_3.jpeg">
+  <img src="assets/thermal_4.jpeg">
+</div>
 
-#### Fabrication and Welding  
+<br>
+
+*Different mechanical structural designs were evaluated to identify the most sustainable load condition that meets customer requirements and withstands heavy loads from perishable and pharmaceutical items. This image illustrates the von Mises stress distribution and the corresponding factor of safety.*
+
+#### Corrosion Testing (ASTM B117)
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/corrosion_test_0_1.jpg" width="300"><br>
+      <em>Before – Initial design</em>
+    </td>
+    <td align="center">
+      <img src="assets/corrosion_test_0_2.jpg" width="300"><br>
+      <em>After – Optimized design</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/corrosion_test_1_1.jpg" width="300"><br>
+      <em>Before – Stress concentration</em>
+    </td>
+    <td align="center">
+      <img src="assets/corrosion_test_1_2.jpg" width="300"><br>
+      <em>After – Improved load distribution</em>
+    </td>
+  </tr>
+</table>
 
 
-#### Prototype 2 
-[Watch the video](/assets/prototype_testing.mp4)
+#### Fabrication and Quality
 
-#### Prototype 2 
-[Watch the video](/assets/prototype_testing.mp4)
 
-- Led the design and manufacturing of a prototype refrigeration system meeting Air Force standards for pharmaceutical product storage.
 
-- 
-- Designed and drafted the refrigeration system structure for pharmaceutical applications using SolidWorks, ensuring compliance with industry standards and optimized performance.
-- Supervised design team and mentored 3 trainee engineers in production planning and process monitoring, achieving continuous improvements and maintaining strict quality standards for Air Force standards.
-- Led mechanical design and assembly of the first prototype, including system upgrades and performance testing of advanced refrigeration systems, ensuring Air Force quality compliance and operational reliability under demanding conditions.
+
