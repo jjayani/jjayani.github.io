@@ -33,9 +33,10 @@ Maintenance | Workshop Operaitons | Material Quility Testing | Equiment Reliabil
 
 #### Prototype 2 (Manufactuing and Testing)
 <div style="display: flex; gap: 20px;">
-  <img src="assets/prototype_2_1.jpg" width="300">
-  <img src="assets/prototype_2_2.jpg" width="300">
+  <img src="assets/prototype_2_1.jpg" width="275">
+  <img src="assets/prototype_2_2.jpg" width="275">
 </div>
+
 
 *This system is designed for the Air Force to meet military standards (MIL-STD) for storing pharmaceutical products while operating reliably in harsh environmental conditions. It features high corrosion resistance, impact-resistant construction, and an advanced insulation system using vacuum insulation panels to ensure thermal efficiency and durability.*
 
