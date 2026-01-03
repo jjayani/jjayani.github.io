@@ -70,21 +70,21 @@ Maintenance | Workshop Operaitons | Material Quility Testing | Equiment Reliabil
   <tr>
     <td align="center">
       <img src="assets/corrosion_test_0_1.jpg" width="300"><br>
-      <em align="center">Before Test</em>
+      <p align="center"><em>Before Test</em></p>
     </td>
     <td align="center">
       <img src="assets/corrosion_test_0_2.jpg" width="300"><br>
-      <em align="center">After Test</em>
+      <p align="center"><em>After Test</em></p>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="assets/corrosion_test_1_1.jpg" width="300"><br>
-      <em align="center">Before Test</em>
+      <p align="center"><em>Before Test</em></p>
     </td>
     <td align="center">
       <img src="assets/corrosion_test_1_2.jpg" width="300"><br>
-      <em align="center">After Test</em>
+      <p align="center"><em>After Test</em></p>
     </td>
   </tr>
 </table>
