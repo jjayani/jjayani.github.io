@@ -19,12 +19,28 @@ Software Training | CAD Software (AutoCAD, SolidWorks, Fusion 360, NX, Creo, Sol
 ### Supply Chain Manager | Win Industries
 Supply Chain | Matierla Procurement | Customer Support | Inventory Contorol (Mechanical & Electrical) | BI Tools | KPIs | Forecasting | Logistics Arrebnetb | Production Schedule | ERP System
 
-### Trainee Engineer | Win Industries
+### Trainee Engineer | Plasma Induction
 Maintenance | Workshop Operaitons | Material Quility Testing | Equiment Reliability | Product Testing | Tools Training
 
 ## Projects
-### Refrigeration System Design and Manufacturing Coordination | Ongoing
+### Refrigeration System Design and Manufacturing
 
+#### Prototype 1 (System upgrade and testing)
+![slamProj](/assets/prototype_testing.gif)
+
+#### Prototype 2 (Manufactuing and Testing)
+[Watch the video](/assets/prototype_testing.mp4)
+
+#### Finite Element analysis (FEA)
+[Watch the video](/assets/prototype_testing.mp4)
+
+#### Prototype 2 
+[Watch the video](/assets/prototype_testing.mp4)
+
+#### Prototype 2 
+[Watch the video](/assets/prototype_testing.mp4)
+
+#### Prototype 2 
 [Watch the video](/assets/prototype_testing.mp4)
 
 - Led the design and manufacturing of a prototype refrigeration system meeting Air Force standards for pharmaceutical product storage.
