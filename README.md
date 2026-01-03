@@ -25,7 +25,7 @@ Maintenance | Workshop Operaitons | Material Quility Testing | Equiment Reliabil
 ## Projects
 ### Refrigeration System Design and Manufacturing Coordination | Ongoing
 
-![Video](/assets/prototype_testing.mp4)
+[![Video](thumbnail.png)](/assets/prototype_testing.mp4)
 
 - Led the design and manufacturing of a prototype refrigeration system meeting Air Force standards for pharmaceutical product storage.
 
