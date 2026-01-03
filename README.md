@@ -28,6 +28,9 @@ Maintenance | Workshop Operaitons | Material Quility Testing | Equiment Reliabil
 #### Prototype 1 (System upgrade and testing)
 ![slamProj](/assets/prototype_testing.gif)
 
+<img src="/assets/prototype_testing.gif" alt="slamProj" width="600">
+
+
 #### Prototype 2 (Manufactuing and Testing)
 [Watch the video](/assets/prototype_testing.mp4)
 
