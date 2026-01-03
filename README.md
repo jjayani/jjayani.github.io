@@ -32,7 +32,12 @@ Maintenance | Workshop Operaitons | Material Quility Testing | Equiment Reliabil
 
 
 #### Prototype 2 (Manufactuing and Testing)
-[Watch the video](/assets/prototype_testing.mp4)
+<div style="display: flex; gap: 20px;">
+  <img src="assets/prototype_2_1.jpg" width="350">
+  <img src="assets/prototype_2_2.jpg" width="350">
+</div>
+
+*This system is designed for the Air Force to meet military standards (MIL-STD) for storing pharmaceutical products while operating reliably in harsh environmental conditions. It features high corrosion resistance, impact-resistant construction, and an advanced insulation system using vacuum insulation panels to ensure thermal efficiency and durability.*
 
 #### Finite Element analysis (FEA)
 <div style="display:grid; grid-template-columns: repeat(2, 1fr); gap:10px;">
@@ -42,7 +47,7 @@ Maintenance | Workshop Operaitons | Material Quility Testing | Equiment Reliabil
   <img src="/assets/FEA_4.png">
 </div>
 
-*This system is designed for small farmers to transport perishable products during the harvesting season, minimizing pre-cooling requirements and reducing transportation time to centralized warehouses.*
+*Different mechanical structural designs were evaluated to identify the most sustainable load condition that meets customer requirements and withstands heavy loads from perishable and pharmaceutical items. This image illustrates the von Mises stress distribution and the corresponding factor of safety.*
 
 
 #### Fabrication and Welding  
