@@ -35,10 +35,18 @@ Maintenance | Workshop Operaitons | Material Quility Testing | Equiment Reliabil
 [Watch the video](/assets/prototype_testing.mp4)
 
 #### Finite Element analysis (FEA)
-[Watch the video](/assets/prototype_testing.mp4)
+<div style="display:grid; grid-template-columns: repeat(2, 1fr); gap:10px;">
+  <img src="/assets/FEA_1.png">
+  <img src="/assets/FEA_2.png">
+  <img src="/assets/FEA_3.png">
+  <img src="/assets/FEA_4.png">
+</div>
 
-#### Prototype 2 
-[Watch the video](/assets/prototype_testing.mp4)
+*This system is designed for small farmers to transport perishable products during the harvesting season, minimizing pre-cooling requirements and reducing transportation time to centralized warehouses.*
+
+
+#### Fabrication and Welding  
+
 
 #### Prototype 2 
 [Watch the video](/assets/prototype_testing.mp4)
