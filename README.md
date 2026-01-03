@@ -4,14 +4,7 @@ Industrial Engineer specializing in manufacturing operations and mechanical engi
 
 ## Education						       		
 - M.S. Industrial Engineering	| Arizona State University
-- B.S. Mechanical Engineering | Indus University  
-
-
-## Projects
-### Refrigeration System Design and Manufacturing Coordination | Ongoing
-- Designed and drafted the refrigeration system structure for pharmaceutical applications using SolidWorks, ensuring compliance with industry standards and optimized performance.
-- Supervised design team and mentored 3 trainee engineers in production planning and process monitoring, achieving continuous improvements and maintaining strict quality standards for Air Force standards.
-- Led mechanical design and assembly of the first prototype, including system upgrades and performance testing of advanced refrigeration systems, ensuring Air Force quality compliance and operational reliability under demanding conditions.
+- B.Tech. Mechanical Engineering | Indus University  
 
 ## Work Experience
 ### Operations Research Analyst | Freshkube
@@ -29,6 +22,14 @@ Supply Chain | Matierla Procurement | Customer Support | Inventory Contorol (Mec
 ### Trainee Engineer | Win Industries
 Maintenance | Workshop Operaitons | Material Quility Testing | Equiment Reliability | Product Testing | Tools Training
 
+## Projects
+### Refrigeration System Design and Manufacturing Coordination | Ongoing
 
+![Video](/assets/prototype_testing.mp4)
 
+- Led the design and manufacturing of a prototype refrigeration system meeting Air Force standards for pharmaceutical product storage.
 
+- 
+- Designed and drafted the refrigeration system structure for pharmaceutical applications using SolidWorks, ensuring compliance with industry standards and optimized performance.
+- Supervised design team and mentored 3 trainee engineers in production planning and process monitoring, achieving continuous improvements and maintaining strict quality standards for Air Force standards.
+- Led mechanical design and assembly of the first prototype, including system upgrades and performance testing of advanced refrigeration systems, ensuring Air Force quality compliance and operational reliability under demanding conditions.
