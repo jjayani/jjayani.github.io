@@ -26,9 +26,9 @@ Maintenance | Workshop Operaitons | Material Quility Testing | Equiment Reliabil
 ### Refrigeration System Design and Manufacturing
 
 #### Prototype 1 (System upgrade and testing)
-![slamProj](/assets/prototype_testing.gif)
-
 <img src="/assets/prototype_testing.gif" alt="slamProj" width="600">
+
+*This system is designed for small farmers to transport perishable products during the harvesting season, minimizing pre-cooling requirements and reducing transportation time to centralized warehouses.*
 
 
 #### Prototype 2 (Manufactuing and Testing)
