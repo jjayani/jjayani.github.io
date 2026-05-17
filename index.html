@@ -88,7 +88,7 @@
             height: 100vh; min-height: 620px;
             position: relative;
             display: flex; align-items: center; justify-content: center;
-            overflow: hidden; background: #000;
+            overflow: hidden; background: #00000a;
         }
         #hero-canvas {
             position: absolute; inset: 0;
@@ -277,6 +277,7 @@
         .edu-deg  { font-size: 22px; font-weight: 700; margin-bottom: 6px; }
         .edu-fld  { font-size: 17px; color: var(--muted); margin-bottom: 4px; }
         .edu-sch  { font-size: 15px; color: var(--muted); }
+        .edu-year { font-size: 13px; color: var(--blue); font-weight: 600; margin-top: 8px; }
         @media (max-width: 600px) { .edu-cards { grid-template-columns: 1fr; } }
 
         /* ── CONTACT ── */
@@ -284,6 +285,14 @@
             display: flex; justify-content: center; gap: 14px;
             flex-wrap: wrap; margin-top: 32px; margin-bottom: 56px;
         }
+        .social-icons { display:flex; gap:18px; justify-content:center; margin-top:28px; margin-bottom:36px; }
+        .sicon {
+            width:60px; height:60px; border-radius:50%;
+            background:#fff; display:flex; align-items:center; justify-content:center;
+            text-decoration:none; transition:transform 0.22s ease, box-shadow 0.22s ease;
+            box-shadow:0 4px 16px rgba(0,0,0,0.25);
+        }
+        .sicon:hover { transform:scale(1.12); box-shadow:0 8px 28px rgba(0,0,0,0.4); }
         .cpill {
             display: inline-flex; align-items: center; gap: 8px;
             padding: 12px 22px; border-radius: 980px;
@@ -409,7 +418,7 @@
                 <p class="bc ao">I'm a Manufacturing &amp; Industrial Engineer with a foundation in both mechanical design and process optimization. My work sits at the intersection of precision engineering and operational efficiency — turning complex manufacturing challenges into reliable, data-driven solutions.</p>
                 <p class="bc ao" style="margin-top:14px">With experience across startups, academic research, and traditional manufacturing environments, I bring hands-on expertise spanning CAD and FEA modeling, lean methodologies, statistical process control, and full NPI lifecycles.</p>
                 <div class="about-stats">
-                    <div class="ao" data-d="1"><div class="stat-n">5+</div><div class="stat-l">Roles held</div></div>
+                    <div class="ao" data-d="1"><div class="stat-n">4+</div><div class="stat-l">Years Experience</div></div>
                     <div class="ao" data-d="2"><div class="stat-n">10+</div><div class="stat-l">Engineering tools</div></div>
                     <div class="ao" data-d="3"><div class="stat-n">2</div><div class="stat-l">Degrees earned</div></div>
                 </div>
@@ -505,7 +514,7 @@
                 <div>
                     <div class="er-role">Manufacturing Engineer</div>
                     <div class="er-co">Freshkube</div>
-                    <div class="er-when">Most Recent</div>
+                    <div class="er-when">May 2024 &ndash; Present</div>
                 </div>
                 <ul class="er-list">
                     <li>Optimized production workflows and assembly processes, increasing throughput and reducing cycle time</li>
@@ -521,7 +530,7 @@
                 <div>
                     <div class="er-role">Graduate Services Assistant</div>
                     <div class="er-co">Arizona State University</div>
-                    <div class="er-when">Graduate Research</div>
+                    <div class="er-when">Aug 2023 &ndash; May 2024</div>
                 </div>
                 <ul class="er-list">
                     <li>Developed mathematical models and convex optimization methods applied to manufacturing problems</li>
@@ -535,7 +544,7 @@
                 <div>
                     <div class="er-role">CAD Engineer</div>
                     <div class="er-co">Cube CAD Center</div>
-                    <div class="er-when">Prior</div>
+                    <div class="er-when">Mar 2022 &ndash; Jul 2022</div>
                 </div>
                 <ul class="er-list">
                     <li>Produced 3D models and 2D engineering drawings across SolidWorks, AutoCAD, Creo, and NX</li>
@@ -549,7 +558,7 @@
                 <div>
                     <div class="er-role">Manufacturing Design Engineer</div>
                     <div class="er-co">Win Industries</div>
-                    <div class="er-when">Prior</div>
+                    <div class="er-when">Apr 2021 &ndash; Jul 2022</div>
                 </div>
                 <ul class="er-list">
                     <li>Managed SPC implementation and supply chain oversight for production lines</li>
@@ -563,7 +572,7 @@
                 <div>
                     <div class="er-role">Trainee Engineer</div>
                     <div class="er-co">Plasma Induction</div>
-                    <div class="er-when">Early Career</div>
+                    <div class="er-when">Sep 2020 &ndash; Mar 2021</div>
                 </div>
                 <ul class="er-list">
                     <li>Handled maintenance, workshop operations, and equipment reliability for induction heating systems</li>
@@ -589,12 +598,14 @@
                 <div class="edu-deg">Master of Science</div>
                 <div class="edu-fld">Industrial Engineering</div>
                 <div class="edu-sch">Arizona State University &middot; Tempe, AZ</div>
+                <div class="edu-year">2022 &ndash; 2024</div>
             </div>
             <div class="edu-card ao" data-d="2">
                 <span class="edu-tag">Undergraduate</span>
                 <div class="edu-deg">Bachelor of Technology</div>
                 <div class="edu-fld">Mechanical Engineering</div>
                 <div class="edu-sch">Indus University &middot; Ahmedabad, India</div>
+                <div class="edu-year">2015 &ndash; 2019</div>
             </div>
         </div>
     </div>
@@ -608,14 +619,15 @@
             <div class="d2">Open to new opportunities.</div>
             <p class="bc" style="margin-top:12px">Whether you have a manufacturing role, a challenging engineering project, or just want to talk — I'd love to hear from you.</p>
         </div>
-        <div class="cta-row ao">
-            <a href="mailto:jay16191197@gmail.com" class="cpill cp-blue">
-                <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
-                jay16191197@gmail.com
+        <div class="social-icons ao">
+            <a href="https://www.linkedin.com/in/jay-jayani" target="_blank" rel="noopener noreferrer" class="sicon" title="LinkedIn">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="#0A66C2"><rect width="24" height="24" rx="4" fill="#0A66C2"/><path d="M6.5 9.5h-2v8h2v-8zm-1-3a1.15 1.15 0 1 0 0 2.3A1.15 1.15 0 0 0 5.5 6.5zm4 3h-2v8h2v-4c0-1.7.3-3.3 2.4-3.3 2 0 2.1 1.9 2.1 3.4v3.9h2v-4.4c0-2.6-.6-4.6-3.6-4.6-1.5 0-2.5.8-2.9 1.6v-1.6z" fill="#fff"/></svg>
             </a>
-            <a href="https://github.com/jjayani" target="_blank" rel="noopener noreferrer" class="cpill cp-out">
-                <svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0 1 12 6.844a9.59 9.59 0 0 1 2.504.337c1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.02 10.02 0 0 0 22 12.017C22 6.484 17.522 2 12 2z"/></svg>
-                github.com/jjayani
+            <a href="mailto:jay16191197@gmail.com" class="sicon" title="Email">
+                <svg width="24" height="24" viewBox="0 0 24 24"><rect width="24" height="24" rx="4" fill="#EA4335"/><path d="M4 8l8 5 8-5v9a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V8z" fill="#fff"/><path d="M4 8a1 1 0 0 1 1-1h14a1 1 0 0 1 1 1L12 13 4 8z" fill="#fff"/></svg>
+            </a>
+            <a href="https://github.com/jjayani" target="_blank" rel="noopener noreferrer" class="sicon" title="GitHub">
+                <svg width="24" height="24" viewBox="0 0 24 24"><rect width="24" height="24" rx="4" fill="#1d1d1f"/><path fill="#fff" d="M12 3C7.03 3 3 7.03 3 12c0 3.98 2.58 7.36 6.16 8.55.45.08.61-.2.61-.43 0-.21-.01-.77-.01-1.51-2.5.54-3.03-1.2-3.03-1.2-.41-1.04-1-1.32-1-1.32-.82-.56.06-.55.06-.55.9.06 1.38.93 1.38.93.8 1.37 2.1.97 2.61.74.08-.58.31-.97.57-1.19-2-.23-4.1-1-4.1-4.45 0-.98.35-1.79.93-2.42-.09-.23-.4-1.14.09-2.38 0 0 .76-.24 2.48.93A8.6 8.6 0 0 1 12 7.6c.77 0 1.54.1 2.26.3 1.72-1.17 2.48-.93 2.48-.93.49 1.24.18 2.15.09 2.38.58.63.93 1.44.93 2.42 0 3.46-2.1 4.22-4.11 4.44.32.28.61.83.61 1.67 0 1.2-.01 2.17-.01 2.47 0 .24.16.52.62.43A9.01 9.01 0 0 0 21 12c0-4.97-4.03-9-9-9z"/></svg>
             </a>
         </div>
         <div class="cform ao">
@@ -650,97 +662,99 @@
 </footer>
 
 <script>
-    /* ── Particle network ── */
-    (function () {
+    /* ── Galaxy Background ── */
+    (function(){
         const canvas = document.getElementById('hero-canvas');
-        const ctx    = canvas.getContext('2d');
-        const N = 90, DIST = 140, SPEED = 0.38;
-        let W, H, pts = [], mouse = { x: -9999, y: -9999 };
+        const ctx = canvas.getContext('2d');
+        let W, H, t = 0;
 
-        function resize() {
+        // Stars
+        let stars = [];
+        function mkStars() {
+            stars = [];
+            for(let i=0;i<280;i++) stars.push({
+                x: Math.random()*W, y: Math.random()*H,
+                r: Math.random()*1.4+0.2,
+                a: Math.random(), da: (Math.random()-0.5)*0.008,
+                twinkleSpd: Math.random()*0.04+0.01,
+                phase: Math.random()*Math.PI*2,
+                color: Math.random()<0.15?'rgba(180,200,255,':'rgba(255,255,255,'
+            });
+        }
+
+        // Shooting stars
+        let shoots = [];
+        function spawnShoot(){
+            shoots.push({
+                x: Math.random()*W, y: Math.random()*H*0.5,
+                vx: 4+Math.random()*5, vy: 1.5+Math.random()*2,
+                len: 60+Math.random()*80, life:1
+            });
+        }
+
+        function resize(){
             W = canvas.width  = canvas.offsetWidth;
             H = canvas.height = canvas.offsetHeight;
+            mkStars();
         }
 
-        function mkPt() {
-            return {
-                x:  Math.random() * W,
-                y:  Math.random() * H,
-                vx: (Math.random() - 0.5) * SPEED * 2,
-                vy: (Math.random() - 0.5) * SPEED * 2,
-                r:  Math.random() * 1.6 + 0.8,
-            };
-        }
+        function draw(){
+            t += 0.006;
+            ctx.clearRect(0,0,W,H);
 
-        function init() { resize(); pts = Array.from({length: N}, mkPt); }
+            // Deep space base
+            ctx.fillStyle = '#00000a';
+            ctx.fillRect(0,0,W,H);
 
-        function draw() {
-            ctx.clearRect(0, 0, W, H);
+            // Nebula blobs
+            const blobs = [
+                {x:W*0.2+Math.sin(t*0.5)*W*0.1, y:H*0.3+Math.cos(t*0.4)*H*0.15, r:W*0.55, c:'rgba(20,0,80,', a:0.55},
+                {x:W*0.8+Math.cos(t*0.45)*W*0.1, y:H*0.6+Math.sin(t*0.35)*H*0.15, r:W*0.5,  c:'rgba(0,40,120,', a:0.55},
+                {x:W*0.5+Math.sin(t*0.3)*W*0.12, y:H*0.5+Math.cos(t*0.55)*H*0.2,  r:W*0.45, c:'rgba(0,100,160,', a:0.35},
+                {x:W*0.65+Math.cos(t*0.6)*W*0.1, y:H*0.25+Math.sin(t*0.4)*H*0.1,  r:W*0.35, c:'rgba(60,0,130,', a:0.28},
+                {x:W*0.3+Math.sin(t*0.35)*W*0.08,y:H*0.75+Math.cos(t*0.5)*H*0.1,  r:W*0.3,  c:'rgba(0,80,120,', a:0.22},
+            ];
+            blobs.forEach(b=>{
+                const g = ctx.createRadialGradient(b.x,b.y,0,b.x,b.y,b.r);
+                g.addColorStop(0, b.c+b.a+')');
+                g.addColorStop(1, b.c+'0)');
+                ctx.fillStyle=g; ctx.fillRect(0,0,W,H);
+            });
 
-            /* connections */
-            for (let i = 0; i < pts.length; i++) {
-                for (let j = i + 1; j < pts.length; j++) {
-                    const dx = pts[i].x - pts[j].x, dy = pts[i].y - pts[j].y;
-                    const d  = Math.sqrt(dx*dx + dy*dy);
-                    if (d < DIST) {
-                        ctx.beginPath();
-                        ctx.moveTo(pts[i].x, pts[i].y);
-                        ctx.lineTo(pts[j].x, pts[j].y);
-                        ctx.strokeStyle = `rgba(0,212,255,${(1 - d/DIST) * 0.22})`;
-                        ctx.lineWidth = 0.7;
-                        ctx.stroke();
-                    }
-                }
-                /* mouse glow lines */
-                const mdx = pts[i].x - mouse.x, mdy = pts[i].y - mouse.y;
-                const md  = Math.sqrt(mdx*mdx + mdy*mdy);
-                if (md < 180) {
-                    ctx.beginPath();
-                    ctx.moveTo(pts[i].x, pts[i].y);
-                    ctx.lineTo(mouse.x, mouse.y);
-                    ctx.strokeStyle = `rgba(0,212,255,${(1 - md/180) * 0.45})`;
-                    ctx.lineWidth = 0.9;
-                    ctx.stroke();
-                }
-            }
-
-            /* dots */
-            pts.forEach(p => {
-                /* gentle mouse repulsion */
-                const dx = p.x - mouse.x, dy = p.y - mouse.y;
-                const d  = Math.sqrt(dx*dx + dy*dy);
-                if (d < 100) {
-                    p.vx += (dx / d) * 0.04;
-                    p.vy += (dy / d) * 0.04;
-                }
-                /* speed cap */
-                const spd = Math.sqrt(p.vx*p.vx + p.vy*p.vy);
-                if (spd > SPEED * 3) { p.vx *= 0.96; p.vy *= 0.96; }
-
-                p.x += p.vx; p.y += p.vy;
-                if (p.x < 0 || p.x > W) p.vx *= -1;
-                if (p.y < 0 || p.y > H) p.vy *= -1;
-
+            // Stars
+            stars.forEach(s=>{
+                s.a = 0.3 + 0.7*((Math.sin(t*s.twinkleSpd*10+s.phase)+1)*0.5);
                 ctx.beginPath();
-                ctx.arc(p.x, p.y, p.r, 0, Math.PI*2);
-                ctx.fillStyle = 'rgba(0,212,255,0.75)';
+                ctx.arc(s.x,s.y,s.r,0,Math.PI*2);
+                ctx.fillStyle = s.color+s.a+')';
                 ctx.fill();
+                // bigger stars get a subtle glow
+                if(s.r>1.1){
+                    ctx.beginPath();ctx.arc(s.x,s.y,s.r*2.5,0,Math.PI*2);
+                    ctx.fillStyle = 'rgba(200,220,255,'+(s.a*0.08)+')';
+                    ctx.fill();
+                }
+            });
+
+            // Shooting stars
+            if(Math.random()<0.004) spawnShoot();
+            shoots = shoots.filter(s=>{
+                s.x+=s.vx; s.y+=s.vy; s.life-=0.025;
+                if(s.life<=0)return false;
+                const g=ctx.createLinearGradient(s.x,s.y,s.x-s.vx*s.len/5,s.y-s.vy*s.len/5);
+                g.addColorStop(0,'rgba(255,255,255,'+(s.life*0.9)+')');
+                g.addColorStop(1,'rgba(255,255,255,0)');
+                ctx.beginPath();ctx.moveTo(s.x,s.y);ctx.lineTo(s.x-s.vx*s.len/5,s.y-s.vy*s.len/5);
+                ctx.strokeStyle=g;ctx.lineWidth=1.5;ctx.stroke();
+                return true;
             });
 
             requestAnimationFrame(draw);
         }
 
-        window.addEventListener('resize', () => { resize(); });
-        document.getElementById('hero').addEventListener('mousemove', e => {
-            const r = canvas.getBoundingClientRect();
-            mouse.x = e.clientX - r.left;
-            mouse.y = e.clientY - r.top;
-        });
-        document.getElementById('hero').addEventListener('mouseleave', () => {
-            mouse.x = mouse.y = -9999;
-        });
-
-        init(); draw();
+        window.addEventListener('resize', resize);
+        resize();
+        draw();
     })();
 
     /* nav */
@@ -881,6 +895,8 @@ document.querySelectorAll('[data-bg]').forEach(make);
 (function loop(){requestAnimationFrame(loop);map.forEach(function(d){if(!d.active||!d.anim)return;d.ctx.clearRect(0,0,d.cv.width,d.cv.height);d.anim.draw(d.ctx,d.cv.width,d.cv.height);});})();
 })();
 </script>
+
+
 
 </body>
 </html>
