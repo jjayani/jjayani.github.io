@@ -179,19 +179,22 @@
         }
         .grid-portrait figure { margin:0; }
         .grid-portrait img {
-            width:100%; height:auto; display:block;
-            border-radius:10px;
-            max-height:640px;
+            width:100%;
+            aspect-ratio: 4/5;
             object-fit:cover;
             object-position:center top;
+            display:block;
+            border-radius:10px;
         }
 
         figcaption {
-            font-size:11px; color:var(--muted);
-            text-align:center; margin-top:7px;
-            line-height:1.4;
+            font-size:13px; font-weight:500;
+            color:#3a3a3a;
+            text-align:center; margin-top:10px;
+            line-height:1.45; letter-spacing:0.01em;
         }
-        .s-dark figcaption { color:#6e6e73; }
+        .s-gray figcaption { color:#444; }
+        .s-dark figcaption { color:#c8c8d0; }
 
         .section-cap {
             text-align:center; font-size:12px; color:var(--muted);
@@ -371,19 +374,19 @@
         <div class="grid-2x2 ao">
             <figure>
                 <img src="photos/corrosion_test_0_1.jpg" alt="ASTM B117 salt spray — sample set A, specimen 1" loading="lazy">
-                <figcaption>Sample set A — Specimen 1</figcaption>
+                <figcaption>Sample A — Before Test</figcaption>
             </figure>
             <figure>
                 <img src="photos/corrosion_test_0_2.jpg" alt="ASTM B117 salt spray — sample set A, specimen 2" loading="lazy">
-                <figcaption>Sample set A — Specimen 2</figcaption>
+                <figcaption>Sample A — After Test</figcaption>
             </figure>
             <figure>
                 <img src="photos/corrosion_test_1_1.jpg" alt="ASTM B117 salt spray — sample set B, specimen 1" loading="lazy">
-                <figcaption>Sample set B — Specimen 1</figcaption>
+                <figcaption>Sample B — Before Test</figcaption>
             </figure>
             <figure>
                 <img src="photos/corrosion_test_1_2.jpg" alt="ASTM B117 salt spray — sample set B, specimen 2" loading="lazy">
-                <figcaption>Sample set B — Specimen 2</figcaption>
+                <figcaption>Sample B — After Test</figcaption>
             </figure>
         </div>
     </div>
